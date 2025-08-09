@@ -1,13 +1,16 @@
-Face Detection using OpenCV:
-
-      This project uses OpenCV’s computer vision capabilities to detect human faces in images or live video streams.
-      It applies a pre-trained Haar Cascade classifier to identify facial features and draw bounding boxes around them in real time.
+Webcam Access using OpenCV :
+          This simple Python project demonstrates how to access and display a live video feed from your system’s webcam using OpenCV. It forms the base for               computer vision applications like face detection, gesture recognition, and object tracking.
 
 Features:
 
-   Real-time face detection using a webcam
+       Real-time webcam feed capture
 
-   Supports image and video input
+       Easy integration with other OpenCV projects
 
-   Lightweight and easy to run with Python & OpenCV
+       Works on most devices with a camera
 
+Technologies Used:
+
+     Python
+
+     OpenCV
